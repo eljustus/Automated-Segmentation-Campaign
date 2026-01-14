@@ -1,2 +1,5 @@
 # Automated-Segmentation-Campaign
-Created an automated Segmentation Campaign process to send specialize SMS offer to particular segment of customer  that could be used for boasting cross selling and Upselling, reduce churn rate, aid retention and promote sales.
+Developed and implemented an automated customer segmentation and SMS campaign engine that delivers targeted, personalized offers to defined customer segments. This solution effectively supports cross-selling and upselling initiatives, reduces churn, strengthens customer retention, and drives incremental sales revenue.
+The system utilises a randomised customer database where the telephone number serves as the unique identifier and the customer's age functions as the primary segmentation criterion.
+
+
